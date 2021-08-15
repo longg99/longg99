@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Long (Vu).
-- 👀 I’m interested in programing and trying to learn and build some fun stuff.
+- 👀 I’m interested in programing and trying to build some fun stuff.
 - 🌱 I’m currently learning Computer Science @ York University!
 
 <!---
